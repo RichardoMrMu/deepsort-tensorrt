@@ -22,8 +22,8 @@ make
 ```
 ./demo ../resources/deepsort.engine ../resources/track.txt
 ```
-然后就可以把自己TensorRT的目标检测工程进行对接。附上大佬TensorRT目标检测的工程</p>
+然后就可以把自己TensorRT的目标检测工程进行对接。
 ```
 git clone https://github.com/wang-xinyu/tensorrtx.git
 ```
-注：视频文件太大，所以只把检测结果保存成txt进行测试，因为图片全是黑的，所以demo只是demo，以实际使用为准。
+注：视频文件太大，所以只把检测结果保存成txt进行测试。
